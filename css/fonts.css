@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'Montserrat-Regular';
+  src:	url('../fonts/Montserrat-Regular.ttf') format('truetype');
+  font-weight: normal; 
+  font-style: normal; 
+}
+
+@font-face {
+  font-family: 'MyriadPro-Regular';
+  src:  url('../fonts/MyriadPro-Regular.otf') format('opentype');
+  font-weight: normal; 
+  font-style: normal; 
+}
+
+@font-face {
+  font-family: 'RobotoSlab-Regular';
+  src:  url('../fonts/RobotoSlab-Regular.ttf') format('truetype');
+  font-weight: normal; 
+  font-style: normal; 
+}
+
+@font-face {
+  font-family: 'Fontfabric - MullerBold';
+  src:  url('../fonts/Fontfabric - MullerBold.otf') format('opentype');
+  font-weight: normal; 
+  font-style: normal; 
+}
+
+@font-face {
+  font-family: 'Fontfabric - MullerLight';
+  src:  url('../fonts/Fontfabric - MullerLight.otf') format('opentype');
+  font-weight: normal; 
+  font-style: normal; 
+}
+@font-face {
+  font-family: 'Fontfabric - MullerMedium';
+  src:  url('../fonts/Fontfabric - MullerMedium.otf') format('opentype');
+  font-weight: normal; 
+  font-style: normal; 
+}
